@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 0 896 200" width="896" height="200" role="img" aria-labelledby="t">
-<title id="t">252 contributions in the last 12 months.</title>
+<title id="t">261 contributions in the last 12 months.</title>
 <style>
   .mono { font-family: ui-monospace, 'Cascadia Code', 'SF Mono', SFMono-Regular, Consolas, Menlo, monospace; font-size: 14px; }
   .sans { font-family: 'Segoe UI Variable Display', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; }
@@ -19,9 +19,9 @@
   @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
 </style>
   <text x="0" y="22" class="mono muted" style="font-size:12px;letter-spacing:.12em">ACTIVITY</text>
-  <text x="880" y="22" class="mono muted" text-anchor="end" style="font-size:12px">last 12 months, updated 2026-11-06</text>
+  <text x="880" y="22" class="mono muted" text-anchor="end" style="font-size:12px">last 12 months, updated 2026-11-07</text>
   <line x1="0" y1="40" x2="880" y2="40" class="rule draw"/>
-  <text x="-4" y="150" class="sans fg fade" style="font-size:68px;font-weight:200;letter-spacing:-.03em;animation-delay:.2s">252</text>
+  <text x="-4" y="150" class="sans fg fade" style="font-size:68px;font-weight:200;letter-spacing:-.03em;animation-delay:.2s">261</text>
   <text x="0" y="188" class="mono muted" style="font-size:12px">contributions</text>
   <rect x="220.0" y="167" width="7.7" height="1" fill="#34322e"/>
   <rect x="232.5" y="167" width="7.7" height="1" fill="#34322e"/>
@@ -75,7 +75,7 @@
   <rect x="830.2" y="118.2" width="7.7" height="49.8" class="fg grow" fill-opacity=".78" style="animation-delay:1.084s"/>
   <rect x="842.6" y="158.4" width="7.7" height="9.6" class="fg grow" fill-opacity=".78" style="animation-delay:1.100s"/>
   <rect x="855.1" y="167" width="7.7" height="1" fill="#34322e"/>
-  <rect x="867.5" y="164.2" width="7.7" height="3.8" class="fg grow" fill-opacity=".78" style="animation-delay:1.132s"/>
+  <rect x="867.5" y="146.9" width="7.7" height="21.1" class="fg grow" fill-opacity=".78" style="animation-delay:1.132s"/>
   <text x="821.6" y="66" class="mono accent fade" text-anchor="end" style="font-size:11px;animation-delay:1.57s">48 in the week of Oct 5</text>
   <text x="269.8" y="188" class="mono muted" style="font-size:11px">Dec</text>
   <text x="332.1" y="188" class="mono muted" style="font-size:11px">Jan</text>
