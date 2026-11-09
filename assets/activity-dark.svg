@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 0 896 200" width="896" height="200" role="img" aria-labelledby="t">
-<title id="t">268 contributions in the last 12 months.</title>
+<title id="t">276 contributions in the last 12 months.</title>
 <style>
   .mono { font-family: ui-monospace, 'Cascadia Code', 'SF Mono', SFMono-Regular, Consolas, Menlo, monospace; font-size: 14px; }
   .sans { font-family: 'Segoe UI Variable Display', 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif; }
@@ -19,16 +19,16 @@
   @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
 </style>
   <text x="0" y="22" class="mono muted" style="font-size:12px;letter-spacing:.12em">ACTIVITY</text>
-  <text x="880" y="22" class="mono muted" text-anchor="end" style="font-size:12px">last 12 months, updated 2026-11-08</text>
+  <text x="880" y="22" class="mono muted" text-anchor="end" style="font-size:12px">last 12 months, updated 2026-11-09</text>
   <line x1="0" y1="40" x2="880" y2="40" class="rule draw"/>
-  <text x="-4" y="150" class="sans fg fade" style="font-size:68px;font-weight:200;letter-spacing:-.03em;animation-delay:.2s">268</text>
+  <text x="-4" y="150" class="sans fg fade" style="font-size:68px;font-weight:200;letter-spacing:-.03em;animation-delay:.2s">276</text>
   <text x="0" y="188" class="mono muted" style="font-size:12px">contributions</text>
   <rect x="220.0" y="167" width="7.7" height="1" fill="#34322e"/>
   <rect x="232.5" y="167" width="7.7" height="1" fill="#34322e"/>
   <rect x="244.9" y="167" width="7.7" height="1" fill="#34322e"/>
-  <rect x="257.4" y="167" width="7.7" height="1" fill="#34322e"/>
-  <rect x="269.8" y="164.2" width="7.7" height="3.8" class="fg grow" fill-opacity=".78" style="animation-delay:0.364s"/>
-  <rect x="282.3" y="156.5" width="7.7" height="11.5" class="fg grow" fill-opacity=".78" style="animation-delay:0.380s"/>
+  <rect x="257.4" y="164.2" width="7.7" height="3.8" class="fg grow" fill-opacity=".78" style="animation-delay:0.348s"/>
+  <rect x="269.8" y="156.5" width="7.7" height="11.5" class="fg grow" fill-opacity=".78" style="animation-delay:0.364s"/>
+  <rect x="282.3" y="167" width="7.7" height="1" fill="#34322e"/>
   <rect x="294.7" y="167" width="7.7" height="1" fill="#34322e"/>
   <rect x="307.2" y="167" width="7.7" height="1" fill="#34322e"/>
   <rect x="319.6" y="167" width="7.7" height="1" fill="#34322e"/>
@@ -47,45 +47,45 @@
   <rect x="481.5" y="167" width="7.7" height="1" fill="#34322e"/>
   <rect x="494.0" y="167" width="7.7" height="1" fill="#34322e"/>
   <rect x="506.4" y="167" width="7.7" height="1" fill="#34322e"/>
-  <rect x="518.9" y="167" width="7.7" height="1" fill="#34322e"/>
-  <rect x="531.3" y="129.7" width="7.7" height="38.3" class="fg grow" fill-opacity=".78" style="animation-delay:0.700s"/>
-  <rect x="543.8" y="167" width="7.7" height="1" fill="#34322e"/>
-  <rect x="556.2" y="160.3" width="7.7" height="7.7" class="fg grow" fill-opacity=".78" style="animation-delay:0.732s"/>
-  <rect x="568.7" y="164.2" width="7.7" height="3.8" class="fg grow" fill-opacity=".78" style="animation-delay:0.748s"/>
-  <rect x="581.1" y="152.7" width="7.7" height="15.3" class="fg grow" fill-opacity=".78" style="animation-delay:0.764s"/>
-  <rect x="593.6" y="146.9" width="7.7" height="21.1" class="fg grow" fill-opacity=".78" style="animation-delay:0.780s"/>
+  <rect x="518.9" y="129.7" width="7.7" height="38.3" class="fg grow" fill-opacity=".78" style="animation-delay:0.684s"/>
+  <rect x="531.3" y="167" width="7.7" height="1" fill="#34322e"/>
+  <rect x="543.8" y="160.3" width="7.7" height="7.7" class="fg grow" fill-opacity=".78" style="animation-delay:0.716s"/>
+  <rect x="556.2" y="164.2" width="7.7" height="3.8" class="fg grow" fill-opacity=".78" style="animation-delay:0.732s"/>
+  <rect x="568.7" y="152.7" width="7.7" height="15.3" class="fg grow" fill-opacity=".78" style="animation-delay:0.748s"/>
+  <rect x="581.1" y="146.9" width="7.7" height="21.1" class="fg grow" fill-opacity=".78" style="animation-delay:0.764s"/>
+  <rect x="593.6" y="167" width="7.7" height="1" fill="#34322e"/>
   <rect x="606.0" y="167" width="7.7" height="1" fill="#34322e"/>
-  <rect x="618.5" y="167" width="7.7" height="1" fill="#34322e"/>
-  <rect x="630.9" y="164.2" width="7.7" height="3.8" class="fg grow" fill-opacity=".78" style="animation-delay:0.828s"/>
+  <rect x="618.5" y="164.2" width="7.7" height="3.8" class="fg grow" fill-opacity=".78" style="animation-delay:0.812s"/>
+  <rect x="630.9" y="167" width="7.7" height="1" fill="#34322e"/>
   <rect x="643.4" y="167" width="7.7" height="1" fill="#34322e"/>
   <rect x="655.8" y="167" width="7.7" height="1" fill="#34322e"/>
-  <rect x="668.3" y="167" width="7.7" height="1" fill="#34322e"/>
-  <rect x="680.8" y="150.8" width="7.7" height="17.2" class="fg grow" fill-opacity=".78" style="animation-delay:0.892s"/>
-  <rect x="693.2" y="164.2" width="7.7" height="3.8" class="fg grow" fill-opacity=".78" style="animation-delay:0.908s"/>
-  <rect x="705.7" y="167" width="7.7" height="1" fill="#34322e"/>
-  <rect x="718.1" y="152.7" width="7.7" height="15.3" class="fg grow" fill-opacity=".78" style="animation-delay:0.940s"/>
-  <rect x="730.6" y="148.8" width="7.7" height="19.2" class="fg grow" fill-opacity=".78" style="animation-delay:0.956s"/>
-  <rect x="743.0" y="95.2" width="7.7" height="72.8" class="fg grow" fill-opacity=".78" style="animation-delay:0.972s"/>
-  <rect x="755.5" y="156.5" width="7.7" height="11.5" class="fg grow" fill-opacity=".78" style="animation-delay:0.988s"/>
-  <rect x="767.9" y="133.5" width="7.7" height="34.5" class="fg grow" fill-opacity=".78" style="animation-delay:1.004s"/>
-  <rect x="780.4" y="164.2" width="7.7" height="3.8" class="fg grow" fill-opacity=".78" style="animation-delay:1.020s"/>
-  <rect x="792.8" y="167" width="7.7" height="1" fill="#34322e"/>
-  <rect x="805.3" y="123.9" width="7.7" height="44.1" class="fg grow" fill-opacity=".78" style="animation-delay:1.052s"/>
-  <rect x="817.7" y="76.0" width="7.7" height="92.0" class="accent grow" style="animation-delay:1.068s"/>
-  <rect x="830.2" y="118.2" width="7.7" height="49.8" class="fg grow" fill-opacity=".78" style="animation-delay:1.084s"/>
-  <rect x="842.6" y="158.4" width="7.7" height="9.6" class="fg grow" fill-opacity=".78" style="animation-delay:1.100s"/>
-  <rect x="855.1" y="167" width="7.7" height="1" fill="#34322e"/>
-  <rect x="867.5" y="133.5" width="7.7" height="34.5" class="fg grow" fill-opacity=".78" style="animation-delay:1.132s"/>
-  <text x="821.6" y="66" class="mono accent fade" text-anchor="end" style="font-size:11px;animation-delay:1.57s">48 in the week of Oct 5</text>
-  <text x="269.8" y="188" class="mono muted" style="font-size:11px">Dec</text>
-  <text x="332.1" y="188" class="mono muted" style="font-size:11px">Jan</text>
-  <text x="381.9" y="188" class="mono muted" style="font-size:11px">Feb</text>
-  <text x="431.7" y="188" class="mono muted" style="font-size:11px">Mar</text>
-  <text x="494.0" y="188" class="mono muted" style="font-size:11px">Apr</text>
-  <text x="543.8" y="188" class="mono muted" style="font-size:11px">May</text>
-  <text x="593.6" y="188" class="mono muted" style="font-size:11px">Jun</text>
-  <text x="655.8" y="188" class="mono muted" style="font-size:11px">Jul</text>
-  <text x="705.7" y="188" class="mono muted" style="font-size:11px">Aug</text>
-  <text x="767.9" y="188" class="mono muted" style="font-size:11px">Sep</text>
-  <text x="817.7" y="188" class="mono muted" style="font-size:11px">Oct</text>
+  <rect x="668.3" y="150.8" width="7.7" height="17.2" class="fg grow" fill-opacity=".78" style="animation-delay:0.876s"/>
+  <rect x="680.8" y="164.2" width="7.7" height="3.8" class="fg grow" fill-opacity=".78" style="animation-delay:0.892s"/>
+  <rect x="693.2" y="167" width="7.7" height="1" fill="#34322e"/>
+  <rect x="705.7" y="152.7" width="7.7" height="15.3" class="fg grow" fill-opacity=".78" style="animation-delay:0.924s"/>
+  <rect x="718.1" y="148.8" width="7.7" height="19.2" class="fg grow" fill-opacity=".78" style="animation-delay:0.940s"/>
+  <rect x="730.6" y="95.2" width="7.7" height="72.8" class="fg grow" fill-opacity=".78" style="animation-delay:0.956s"/>
+  <rect x="743.0" y="156.5" width="7.7" height="11.5" class="fg grow" fill-opacity=".78" style="animation-delay:0.972s"/>
+  <rect x="755.5" y="133.5" width="7.7" height="34.5" class="fg grow" fill-opacity=".78" style="animation-delay:0.988s"/>
+  <rect x="767.9" y="164.2" width="7.7" height="3.8" class="fg grow" fill-opacity=".78" style="animation-delay:1.004s"/>
+  <rect x="780.4" y="167" width="7.7" height="1" fill="#34322e"/>
+  <rect x="792.8" y="123.9" width="7.7" height="44.1" class="fg grow" fill-opacity=".78" style="animation-delay:1.036s"/>
+  <rect x="805.3" y="76.0" width="7.7" height="92.0" class="accent grow" style="animation-delay:1.052s"/>
+  <rect x="817.7" y="118.2" width="7.7" height="49.8" class="fg grow" fill-opacity=".78" style="animation-delay:1.068s"/>
+  <rect x="830.2" y="158.4" width="7.7" height="9.6" class="fg grow" fill-opacity=".78" style="animation-delay:1.084s"/>
+  <rect x="842.6" y="167" width="7.7" height="1" fill="#34322e"/>
+  <rect x="855.1" y="118.2" width="7.7" height="49.8" class="fg grow" fill-opacity=".78" style="animation-delay:1.116s"/>
+  <rect x="867.5" y="167" width="7.7" height="1" fill="#34322e"/>
+  <text x="809.1" y="66" class="mono accent fade" text-anchor="end" style="font-size:11px;animation-delay:1.55s">48 in the week of Oct 5</text>
+  <text x="257.4" y="188" class="mono muted" style="font-size:11px">Dec</text>
+  <text x="319.6" y="188" class="mono muted" style="font-size:11px">Jan</text>
+  <text x="369.4" y="188" class="mono muted" style="font-size:11px">Feb</text>
+  <text x="419.2" y="188" class="mono muted" style="font-size:11px">Mar</text>
+  <text x="481.5" y="188" class="mono muted" style="font-size:11px">Apr</text>
+  <text x="531.3" y="188" class="mono muted" style="font-size:11px">May</text>
+  <text x="581.1" y="188" class="mono muted" style="font-size:11px">Jun</text>
+  <text x="643.4" y="188" class="mono muted" style="font-size:11px">Jul</text>
+  <text x="693.2" y="188" class="mono muted" style="font-size:11px">Aug</text>
+  <text x="755.5" y="188" class="mono muted" style="font-size:11px">Sep</text>
+  <text x="805.3" y="188" class="mono muted" style="font-size:11px">Oct</text>
 </svg>
