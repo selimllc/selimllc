@@ -19,7 +19,7 @@
   @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
 </style>
   <text x="0" y="22" class="mono muted" style="font-size:12px;letter-spacing:.12em">ACTIVITY</text>
-  <text x="880" y="22" class="mono muted" text-anchor="end" style="font-size:12px">last 12 months, updated 2026-11-09</text>
+  <text x="880" y="22" class="mono muted" text-anchor="end" style="font-size:12px">last 12 months, updated 2026-11-10</text>
   <line x1="0" y1="40" x2="880" y2="40" class="rule draw"/>
   <text x="-4" y="150" class="sans fg fade" style="font-size:68px;font-weight:200;letter-spacing:-.03em;animation-delay:.2s">276</text>
   <text x="0" y="188" class="mono muted" style="font-size:12px">contributions</text>
