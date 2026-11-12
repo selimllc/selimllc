@@ -36,7 +36,7 @@ Most of my week goes to Python, PHP, C and a bit of Flutter.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="283 contributions in the last 12 months" width="100%">
+  <img src="assets/activity-light.svg" alt="287 contributions in the last 12 months" width="100%">
 </picture>
 
 <br>
